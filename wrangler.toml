@@ -1,4 +1,4 @@
-# wrangler.toml 
+# wrangler.to
 name = 'artimus'
 account_id = "e018bbc96f9c7d5b710e3dd1a5adb5e4"
 workers_dev = true
