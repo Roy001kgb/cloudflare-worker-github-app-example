@@ -1,5 +1,5 @@
 name = "github-app-example"
-account_id = "f8d9cac88285c4d654ba305a92e952d6"
+account_id = "e018bbc96f9c7d5b710e3dd1a5adb5e4"
 workers_dev = true
 
 main = "worker.js"
